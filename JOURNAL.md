@@ -1,7 +1,8 @@
 Made by: @CiviliZayden
 Repository link: https://github.com/civilizayden/Briefcase-printer
-Total hours so far: 6
+Total hours so far: 7.5
 
 - [3] I have spent a couple of hours brainstorming what I wanted to do for Infill. I finally came up with this idea, and I have begun CAD work to get the idea into Fusion. I also started looking for parts, and communicated with other Hack Clubbers to find out what would work, ultimately deciding that I can probably scrap an old Makerbot Replicator from my teacher for parts.  
 - [1] I continued fiddling with the layout of the printer and I think I have decided how I want it to go. I am laying out a footprint in Fusion and trying to make everything fit nice. I have decided on linear rails for all axes, and am now planning how to build it.
 - [2] I worked on getting this into Fusion, figuring out spacing and rail sizes. Then Fusion crashed. I lost my work. At least I was writing down my measurements as I went so I could recreate what I had. Now I have a basic frame, and am looking at what extruder to use. I am leaning toward the picolino.
+- [1.5] Today I sourced my 3D printers. I am getting some old Makerbot Replicator+ printers as well as a Replicator Z18 for free from my CAD teacher. I will also be designing the printer in class now instead of my classwork (approved by teacher). Today I set up my document with the various components I would need, like MGN12 Rail/carrige and 2020 extrusion. I begun setting up the Z axis rail assembly as well. I will not be able to make too much progress until I have the printers in my posession and I can disassemble to figure out what I have to work with.
