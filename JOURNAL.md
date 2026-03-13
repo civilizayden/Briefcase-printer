@@ -1,6 +1,6 @@
 Made by: @CiviliZayden
 Repository link: https://github.com/civilizayden/Briefcase-printer
-Total hours so far: 19.5
+Total hours so far: 26
 
 - [3] I have spent a couple of hours brainstorming what I wanted to do for Infill. I finally came up with this idea, and I have begun CAD work to get the idea into Fusion. I also started looking for parts and communicated with other Hack Clubbers to find out what would work, ultimately deciding that I can probably scrap an old MakerBot Replicator from my teacher for parts.<img width="520" height="535" alt="image" src="https://github.com/user-attachments/assets/a524eb73-3797-4028-85d0-81ec3b08ea01" />  
 
@@ -16,4 +16,4 @@ Total hours so far: 19.5
   
 - [5] Today I basically finished the y-axis assembly. I also added to the BOM all of the parts I will need for the extruder. I spent a LOT of time researching how to connect belts and pulleys and such, and also spent a lot of time looking at extruders. I changed my mind from the picolino and am now going to use the ProtoXtruder, since there is better documentation and it is cheaper. I am hoping I have the budget for auto levelling, but it is not looking good. I will be right at the $350 budget if not over it. I will probably use my tickets for a Blueprint hardware grant.  
 
-- [6] I have finished the Y-axis assembly. It will slide back and forth onto the briefcase wall for transportation. I have finalized my BOM and purchased the AliExpress components so that they get here on time. I still have not secured the salvage 3D printers, but I am hoping to get them this weekend. It took a while to make the y-axis assembly reasonably compact, but I think I did it. 
+- [6.5] I have finished the Y-axis assembly. It will slide back and forth onto the briefcase wall for transportation. I have finalized my BOM and purchased the AliExpress components so that they get here on time. I still have not secured the salvage 3D printers, but I am hoping to get them this weekend. It took a while to make the y-axis assembly reasonably compact, but I think I did it. 
