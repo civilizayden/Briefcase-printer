@@ -1,6 +1,6 @@
 Made by: @CiviliZayden
 Repository link: https://github.com/civilizayden/Briefcase-printer
-Total hours so far: 36
+Total hours so far: 39
 
 - [3/1/26] I have spent a couple of hours brainstorming what I wanted to do for Infill. I finally came up with this idea, and I have begun CAD work to get the idea into Fusion. I also started looking for parts and communicated with other Hack Clubbers to find out what would work, ultimately deciding that I can probably scrap an old MakerBot Replicator from my teacher for parts. (3 hours)
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/a524eb73-3797-4028-85d0-81ec3b08ea01" />  
@@ -28,7 +28,7 @@ Total hours so far: 36
 
 
 
-- [3/15/26] I did not, in fact, finish the Y-axis assembly. Yesterday morning I recieved my 3D printers. There are 4 MakerBot Replicator (5th gen) printers and 2 MakerBot Replicator+ 3D printers.  
+- [3/15/26] I did not, in fact, finish the Y-axis assembly. Yesterday morning I recieved my 3D printers. There were no Z18s as I expected, however, there are 4 MakerBot Replicator (5th gen) printers and 2 MakerBot Replicator+ 3D printers. This means I might have to buy more parts for the Y-axis, but we will see. It will depend on the print volume I want.  
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/59ba0f16-8edb-4bd4-97ab-607ab6828e8f" />
 
 I spent the ENTIRETY of today from when I woke up until I went to bed (aside from going to Church and eating lunch) disassembling one of each of the printers.  
@@ -36,3 +36,7 @@ I spent the ENTIRETY of today from when I woke up until I went to bed (aside fro
 I found out that the + model has both MGN9C and H linear rails/guides in its motion system. I took apart every screw, and I struggled with a few of the screws, in some cases having to drill them out or etch them with a dremel.  
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/a1d572cf-4040-4623-a11c-dd029610cd8a" />  
 I am redesigning the Y-axis to use the MGN9H rails, since this will save me $36. I also found out that both of the printers use sensorless homing, which means I may need to buy some end switches for the filament runout sensors in my build. Additionally to the rails and screws, I salvaged 8 stepper motors, four fans, belts, idler pulleys, 2 hdmi cables, 2 power supplies for future projects, and a z axis lead screw brass thingy. (10 hours)  
+
+- [3/16/26] I spent a while today going back to the Y-axis. Since I changed the design to use MGN9 rails instead of MGN12, I had to go back to the start of my Fusion timeline and fix all of the joints, relationships, sketch planes, extrusion distances, etc to work with the new rail size. Thank goodness for parametric modeling. There is a bright side to this, which is that I was able to reduce the size of the Y-axis from 374mm to 349mm, a whole 25mm! Progress was still slow because I was having to do this part on my Chromebook since I had a free 1st period today, giving me around 2 hours during school to work. I also made a sketch for the stepper mount for the Z-axis. (3 hours)  
+<img width="193" height="26" alt="image" src="https://github.com/user-attachments/assets/41d26de7-f997-41c9-add9-0697a5e1d8bf" /> <img width="500" alt="image" src="https://github.com/user-attachments/assets/15d94a9c-f80d-4764-8f8b-5fcee9c7062b" /> <img width="500" alt="image" src="https://github.com/user-attachments/assets/d13e7698-ed31-4419-9808-f58de124dc65" /> <img width="500" alt="image" src="https://github.com/user-attachments/assets/c2108270-df2c-4bb0-8b80-97d195918259" /> <img width="500" alt="image" src="https://github.com/user-attachments/assets/e75da83c-3175-4d1f-9fdc-3746d7f3b438" />
+  
