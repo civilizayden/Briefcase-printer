@@ -1,0 +1,41 @@
+﻿Start G-code:
+SET_KINEMATIC_POSITION X=0 Y=0 Z=0
+G92 E0 ; Reset Extruder
+G1 F200 E3 ; Prime the extruder (3mm)
+G92 E0 ; Reset Extruder again
+
+
+End G-code:
+M104 S0
+M140 S0
+;Retract the filament
+G92 E1
+G1 E-1 F300
+G28 X0 Y0
+M84
+
+
+Printer Settings:
+X: 220mm
+Y: 220mm
+Z: 150mm
+Build plate shape: Rectangular
+Origin at center: False
+Heated bed: True
+Heated build volume: False
+G-code flavor: Marlin
+Print time estimation factor: 100%
+
+
+Printhead Settings:
+Xmin: -43mm
+Ymin: -45mm
+Xmax: 43mm
+Ymax: 25mm
+Gantry Height: 150mm
+Number of Extruders: 1
+Apply Extruder offsets to GCode: False
+Start Gcode must be first: False
+
+
+All Nozzle settings and extruder settings are default except put compatible material to 1.75mm
